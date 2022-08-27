@@ -1,0 +1,6 @@
+background: fff5f4
+color1: c99597
+color2: 463d3e
+color3: c3abab
+color4: c3abab
+color5: fd6363
